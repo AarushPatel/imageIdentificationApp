@@ -1,0 +1,22 @@
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: aqua;
+}
+
+#camera{
+    border: 2px black solid;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name,#result_object_accuracy{
+    color: mediumaquamarine;
+}
+
+body{
+    background: rgb(59, 63, 255);
+}
